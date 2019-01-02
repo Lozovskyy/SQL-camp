@@ -1,0 +1,3 @@
+1. https://youtu.be/AdV51a4rnKw - Database planning, creating, and maintenance
+2. https://youtu.be/iPTRuMPv2ZE - DML and data fetching, joins in depth.
+3. https://youtu.be/AdV51a4rnKw - More analytical querying.
